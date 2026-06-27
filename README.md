@@ -146,5 +146,5 @@ Content-Type: application/json
 ```
 
 ## Author
-
-**Joseph** — Java Backend Developer
+**Busi Joseph** — Java Backend Developer  
+GitHub: https://github.com/busijoseph826
